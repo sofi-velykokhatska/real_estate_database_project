@@ -1,0 +1,51 @@
+building_id,address,zipcode,bezirk
+B001,Hauptstraße 12,10115,Mitte
+B002,Berliner Allee 44,13088,Pankow
+B003,Goethestraße 7,10625,Charlottenburg-Wilmersdorf
+B004,Schillerstraße 18,10627,Charlottenburg-Wilmersdorf
+B005,Invalidenstraße 55,10115,Mitte
+B006,Frankfurter Allee 199,10365,Lichtenberg
+B007,Bergmannstraße 22,10961,Friedrichshain-Kreuzberg
+B008,Schönhauser Allee 141,10437,Pankow
+B009,Prenzlauer Allee 88,10405,Pankow
+B010,Karl-Marx-Straße 176,12055,Neukölln
+B011,Gneisenaustraße 72,10961,Friedrichshain-Kreuzberg
+B012,Ollenhauerstraße 3,13403,Reinickendorf
+B013,Kaiserdamm 102,14057,Charlottenburg-Wilmersdorf
+B014,Wichertstraße 12,10439,Pankow
+B015,Boxhagener Straße 80,10245,Friedrichshain-Kreuzberg
+B016,Warschauer Straße 26,10243,Friedrichshain-Kreuzberg
+B017,Greifswalder Straße 212,10405,Pankow
+B018,Hermannstraße 144,12051,Neukölln
+B019,Reuterstraße 11,12047,Neukölln
+B020,Potsdamer Straße 187,10783,Tempelhof-Schöneberg
+B021,Seestraße 45,13353,Mitte
+B022,Turiner Straße 19,13347,Mitte
+B023,Osloer Straße 102,13359,Mitte
+B024,Müllerstraße 163,13353,Mitte
+B025,Kotbusser Damm 25,10967,Friedrichshain-Kreuzberg
+B026,Oranienstraße 189,10999,Friedrichshain-Kreuzberg
+B027,Friedrichstraße 240,10969,Friedrichshain-Kreuzberg
+B028,Chausseestraße 125,10115,Mitte
+B029,Scharnweberstraße 52,10247,Friedrichshain-Kreuzberg
+B030,Weißenseer Weg 75,13055,Lichtenberg
+B031,Breite Straße 12,13597,Spandau
+B032,Alt-Moabit 99,10555,Mitte
+B033,Turmstraße 48,10551,Mitte
+B034,Leipziger Straße 22,10117,Mitte
+B035,Grossbeerenstraße 3,10963,Friedrichshain-Kreuzberg
+B036,Mariendorfer Damm 289,12107,Tempelhof-Schöneberg
+B037,Tempelhofer Damm 214,12099,Tempelhof-Schöneberg
+B038,Großer Stern 1,10557,Mitte
+B039,Heerstraße 291,13593,Spandau
+B040,Spandauer Damm 113,14050,Charlottenburg-Wilmersdorf
+B041,Kurfürstenstraße 87,10787,Tempelhof-Schöneberg
+B042,Uhlandstraße 144,10719,Charlottenburg-Wilmersdorf
+B043,Kurfuerstendamm 220,10719,Charlottenburg-Wilmersdorf
+B044,Wilmersdorfer Straße 48,10627,Charlottenburg-Wilmersdorf
+B045,Fehrbelliner Straße 15,10119,Mitte
+B046,Eberswalder Straße 28,10437,Pankow
+B047,Danziger Straße 112,10405,Pankow
+B048,Weddingstraße 5,13347,Mitte
+B049,Koloniestraße 102,13359,Mitte
+B050,Aroser Allee 45,13407,Reinickendorf
