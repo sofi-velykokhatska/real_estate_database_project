@@ -1,0 +1,49 @@
+"apartment_id","building_id","address","bezirk","size_sqm","floor","rooms","last_end_date","days_since_last_contract_end"
+"A0127","B022","Turiner Straße 19","Mitte",83,4,3,"2025-07-27",174
+"A0016","B003","Goethestraße 7","Charlottenburg-Wilmersdorf",117,5,5,"2025-07-28",173
+"A0152","B026","Oranienstraße 189","Friedrichshain-Kreuzberg",87,1,3,"2025-08-01",169
+"A0060","B010","Karl-Marx-Straße 176","Neukölln",105,0,4,"2025-08-01",169
+"A0122","B021","Seestraße 45","Mitte",107,1,4,"2025-08-02",168
+"A0236","B040","Spandauer Damm 113","Charlottenburg-Wilmersdorf",109,4,4,"2025-08-04",166
+"A0222","B037","Tempelhofer Damm 214","Tempelhof-Schöneberg",70,1,3,"2025-08-14",156
+"A0263","B044","Wilmersdorfer Straße 48","Charlottenburg-Wilmersdorf",70,3,3,"2025-08-25",145
+"A0009","B002","Berliner Allee 44","Pankow",75,5,3,"2025-08-29",141
+"A0206","B035","Grossbeerenstraße 3","Friedrichshain-Kreuzberg",90,1,4,"2025-09-01",138
+"A0248","B042","Uhlandstraße 144","Charlottenburg-Wilmersdorf",110,5,4,"2025-09-02",137
+"A0167","B028","Chausseestraße 125","Mitte",86,0,3,"2025-09-04",135
+"A0090","B015","Boxhagener Straße 80","Friedrichshain-Kreuzberg",38,4,2,"2025-09-07",132
+"A0108","B018","Hermannstraße 144","Neukölln",102,3,5,"2025-09-11",128
+"A0154","B026","Oranienstraße 189","Friedrichshain-Kreuzberg",35,0,1,"2025-09-22",117
+"A0170","B029","Scharnweberstraße 52","Friedrichshain-Kreuzberg",105,3,4,"2025-09-23",116
+"A0272","B046","Eberswalder Straße 28","Pankow",102,4,4,"2025-09-25",114
+"A0266","B045","Fehrbelliner Straße 15","Mitte",36,1,2,"2025-10-04",105
+"A0050","B009","Prenzlauer Allee 88","Pankow",34,3,1,"2025-10-06",103
+"A0022","B004","Schillerstraße 18","Charlottenburg-Wilmersdorf",47,0,1,"2025-10-08",101
+"A0259","B044","Wilmersdorfer Straße 48","Charlottenburg-Wilmersdorf",94,0,3,"2025-10-11",98
+"A0021","B004","Schillerstraße 18","Charlottenburg-Wilmersdorf",103,2,5,"2025-10-15",94
+"A0008","B002","Berliner Allee 44","Pankow",106,1,4,"2025-10-20",89
+"A0163","B028","Chausseestraße 125","Mitte",95,0,5,"2025-10-21",88
+"A0019","B004","Schillerstraße 18","Charlottenburg-Wilmersdorf",91,4,3,"2025-10-23",86
+"A0228","B038","Großer Stern 1","Mitte",69,5,3,"2025-10-26",83
+"A0112","B019","Reuterstraße 11","Neukölln",87,1,3,"2025-10-27",82
+"A0252","B042","Uhlandstraße 144","Charlottenburg-Wilmersdorf",68,3,2,"2025-10-28",81
+"A0105","B018","Hermannstraße 144","Neukölln",86,2,3,"2025-10-30",79
+"A0211","B036","Mariendorfer Damm 289","Tempelhof-Schöneberg",30,4,1,"2025-11-01",77
+"A0092","B016","Warschauer Straße 26","Friedrichshain-Kreuzberg",66,5,2,"2025-11-05",73
+"A0295","B050","Aroser Allee 45","Reinickendorf",30,0,1,"2025-11-18",60
+"A0082","B014","Wichertstraße 12","Pankow",114,3,5,"2025-11-23",55
+"A0166","B028","Chausseestraße 125","Mitte",69,0,3,"2025-11-24",54
+"A0282","B047","Danziger Straße 112","Pankow",29,4,1,"2025-12-06",42
+"A0150","B025","Kotbusser Damm 25","Friedrichshain-Kreuzberg",37,1,1,"2025-12-08",40
+"A0229","B039","Heerstraße 291","Spandau",36,3,1,"2025-12-09",39
+"A0080","B014","Wichertstraße 12","Pankow",113,5,4,"2025-12-14",34
+"A0085","B015","Boxhagener Straße 80","Friedrichshain-Kreuzberg",31,1,1,"2025-12-15",33
+"A0208","B035","Grossbeerenstraße 3","Friedrichshain-Kreuzberg",35,1,1,"2025-12-23",25
+"A0074","B013","Kaiserdamm 102","Charlottenburg-Wilmersdorf",65,5,3,"2025-12-28",20
+"A0183","B031","Breite Straße 12","Spandau",100,1,4,"2025-12-29",19
+"A0230","B039","Heerstraße 291","Spandau",35,1,1,"2025-12-29",19
+"A0217","B037","Tempelhofer Damm 214","Tempelhof-Schöneberg",100,4,5,"2026-01-02",15
+"A0233","B039","Heerstraße 291","Spandau",66,1,2,"2026-01-02",15
+"A0231","B039","Heerstraße 291","Spandau",60,1,3,"2026-01-06",11
+"A0120","B020","Potsdamer Straße 187","Tempelhof-Schöneberg",27,1,1,"2026-01-08",9
+"A0069","B012","Ollenhauerstraße 3","Reinickendorf",85,1,4,"2026-01-09",8

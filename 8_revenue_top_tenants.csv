@@ -1,0 +1,21 @@
+"tenant_id","customer_type","customer_name","total_revenue","payments_count","contract_end_date"
+"T0166","private","Annika Vogt","54170.00","38","2029-01-17"
+"T0022","private","Horst-Dieter Holsten","48425.00","52","2026-05-17"
+"T0083","private","Claas Fritsch","47385.00","39","2026-09-17"
+"T0077","private","Cindy Hering","42510.00","39","2027-02-17"
+"T0109","private","Songül Gieß","41405.00","26","2027-02-17"
+"T0317","business","Ullrich GmbH","39130.00","26","2027-02-17"
+"T0056","private","Magrit Davids","35010.00","38","2027-07-17"
+"T0326","business","Walter Lübs GmbH","34925.00","25","2026-10-17"
+"T0065","private","Ramazan Kroker","34700.00","25","2028-06-17"
+"T0013","private","Marleen Schwital","33075.00","21",NULL
+"T0122","private","Carl-Heinz Süßebier","32480.00","35",NULL
+"T0008","private","Valerie Wagner","32305.00","26",NULL
+"T0270","private","Rosmarie Linke","31855.00","25","2027-07-17"
+"T0026","private","Lioba Weitzel","31785.00","39","2027-11-17"
+"T0168","private","Margit Tröst","31675.00","25","2027-11-17"
+"T0360","business","Cichorius UG","31070.00","25","2028-06-17"
+"T0354","business","Lindner GmbH","30225.00","26","2026-04-17"
+"T0076","private","Erik Hettner","29770.00","26",NULL
+"T0232","private","Hardy Jungfer","29445.00","39","2027-06-17"
+"T0088","private","Torben Stadelmann","28860.00","24","2028-11-17"
